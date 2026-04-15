@@ -43,14 +43,6 @@ It measures **current**, **RPM**, and **friction** using various sensors and ind
 
 ---
 
-## 👩‍💻 Author
-**Nainam Hodiwala**  
-🎓 3rd Year, Computer Engineering  
-📍 GH Patel College of Engineering & Technology  
-🔗 [LinkedIn](https://linkedin.com/in/nainamhodiwala)
-
----
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
