@@ -37,12 +37,6 @@ It measures **current**, **RPM**, and **friction** using various sensors and ind
 
 ---
 
-## 📸 Preview
-![Tech Stack](Images/tech_stack.png)
-![Dashboard](Images/output_dashboard.jpg)
-
----
-
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
 
